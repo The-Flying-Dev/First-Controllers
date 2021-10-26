@@ -1,24 +1,35 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h1>First Routes and Controllers project for App Academy.</h1>
 
-Things you may want to cover:
+<hr>
 
-* Ruby version
+<h2> Installation and configuration:</h2>
 
-* System dependencies
+<br/>
 
-* Configuration
+* Create a new app
+* Setup RESTful routes
+* Create and configure a users controller
+* Generate a user model
+* Handle validations
+* Test API endpoints with Postman
 
-* Database creation
+<hr>
 
-* Database initialization
+<br/>
 
-* How to run the test suite
+<h2> Learning outcomes:</h2>
 
-* Services (job queues, cache servers, search engines, etc.)
+<br/>
 
-* Deployment instructions
+* Be able to create routes in routes.rb
+* Be able to read and understand Rails server error messages
+* Know the three places that params come from
+* Be able to nest query parameters
+* Be able to write controller actions that read from and write to the database
+* Know how and when to render errors
 
-* ...
+<br/>
+<hr>
+
